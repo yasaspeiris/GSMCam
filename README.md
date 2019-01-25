@@ -1,5 +1,6 @@
 # GSMCam
 A Python program to determine the Grams per Square Meter of a Fabric using hardware accelerated Image Processing
+(Also contains source code, design files and PCB schematics for cartesian slider system used to move the camera across fabrics.)
 
 ![cover1_97ebsi5cop](https://user-images.githubusercontent.com/20635670/51759435-3aa97480-20ee-11e9-92bd-029e3d236d35.jpg)
 
