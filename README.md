@@ -21,3 +21,8 @@ The GUI is made using Flask, and can be used to calibrate and view results.
 ### Complete Instructions : 
 https://www.hackster.io/yasaspeiris/fabric-gsm-determination-using-ultra96-pynq-6c5499
 
+
+### Contributors : 
+
+Pasindu Liyanage
+
