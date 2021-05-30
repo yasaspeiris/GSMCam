@@ -2,7 +2,7 @@
 A Python program to determine the Grams per Square Meter of a Fabric using hardware accelerated Image Processing
 (Also contains source code, design files and PCB schematics for cartesian slider system used to move the camera across fabrics.)
 
-![cover1_97ebsi5cop](https://user-images.githubusercontent.com/20635670/51759435-3aa97480-20ee-11e9-92bd-029e3d236d35.jpg)
+![cover1_97ebsi5cop](https://user-images.githubusercontent.com/20635670/120110813-c33bf200-c18c-11eb-8a1f-5e5f48039571.jpg)
 
 Conventional method of fabric GSM measurement involves cutting a small round piece of fabric with an area of 0.01 square centimeters and measuring its weight using a precision balance.This project was aimed to replace this conventional method with an optical based one. Currently the scope of the project is limited to single light color (white) fabrics with a plain, twill weave. (Algorithm can also be applied to knit fabrics with a considerable accuracy as well)
 
